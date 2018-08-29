@@ -1,0 +1,15 @@
+docker ps (lists all containers)
+docker-machine ls (lists machines created)
+flag -d (detatch--for a background task)
+-e (setting environment variables)
+docker exec (run commands in a running container)
+docker node ls (allows you to view swarms created) a swarm node is a cluster of vms 
+
+
+exercise 09 - docker pull debian, docker run -it --rm debian /bin/bash
+
+
+docker --help
+docker-machine --help
+
+docker-machine regenerate-certs (for when you have certification errors)
