@@ -1,0 +1,1 @@
+docker build -t ft-rails:5.0.2-on-build .
